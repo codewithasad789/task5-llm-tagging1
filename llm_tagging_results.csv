@@ -1,0 +1,51 @@
+ticket_text,category,zero_shot_pred,few_shot_pred
+There seems to be a discrepancy in my billing statement for this month.,Feature Request,Payment Problem,Performance Issue
+I am unable to access my account after entering the correct credentials.,Bug Report,Login Issue,Performance Issue
+The payment was deducted from my bank account but the transaction shows failed.,Data Sync Issue,Payment Problem,Performance Issue
+I would like to request a refund for the recent charge.,Refund Request,Refund Request,Refund Request
+I am experiencing very slow performance while using the dashboard.,Login Issue,Performance Issue,Performance Issue
+I am experiencing very slow performance while using the dashboard.,Performance Issue,Performance Issue,Performance Issue
+My subscription was cancelled without my request and I need clarification.,Security Concern,Subscription Cancellation,Performance Issue
+There seems to be a discrepancy in my billing statement for this month.,Data Sync Issue,Payment Problem,Performance Issue
+My subscription was cancelled without my request and I need clarification.,Login Issue,Subscription Cancellation,Performance Issue
+Two-factor authentication codes are not being delivered to my phone.,Performance Issue,Security Concern,Performance Issue
+I would like to request a refund for the recent charge.,Performance Issue,Refund Request,Refund Request
+I am experiencing very slow performance while using the dashboard.,Refund Request,Performance Issue,Performance Issue
+The application crashes whenever I try to upload a file.,Bug Report,Performance Issue,Performance Issue
+Two-factor authentication codes are not being delivered to my phone.,Bug Report,Security Concern,Performance Issue
+I am experiencing very slow performance while using the dashboard.,Account Suspension,Performance Issue,Performance Issue
+My subscription was cancelled without my request and I need clarification.,Bug Report,Subscription Cancellation,Performance Issue
+I am unable to access my account after entering the correct credentials.,Payment Problem,Login Issue,Performance Issue
+The payment was deducted from my bank account but the transaction shows failed.,Account Suspension,Payment Problem,Performance Issue
+There seems to be a discrepancy in my billing statement for this month.,Bug Report,Payment Problem,Performance Issue
+I would like to request a refund for the recent charge.,Account Suspension,Refund Request,Refund Request
+My subscription was cancelled without my request and I need clarification.,Payment Problem,Subscription Cancellation,Performance Issue
+The system is not syncing data across devices properly.,Payment Problem,Data Sync Issue,Performance Issue
+I am unable to access my account after entering the correct credentials.,Subscription Cancellation,Login Issue,Performance Issue
+The payment was deducted from my bank account but the transaction shows failed.,Account Suspension,Payment Problem,Performance Issue
+I am unable to access my account after entering the correct credentials.,Subscription Cancellation,Login Issue,Performance Issue
+The system is not syncing data across devices properly.,Subscription Cancellation,Data Sync Issue,Performance Issue
+I am unable to access my account after entering the correct credentials.,Performance Issue,Login Issue,Performance Issue
+I am experiencing very slow performance while using the dashboard.,Feature Request,Performance Issue,Performance Issue
+There seems to be a discrepancy in my billing statement for this month.,Account Suspension,Payment Problem,Performance Issue
+Two-factor authentication codes are not being delivered to my phone.,Subscription Cancellation,Security Concern,Performance Issue
+The payment was deducted from my bank account but the transaction shows failed.,Performance Issue,Payment Problem,Performance Issue
+I would like to request a refund for the recent charge.,Payment Problem,Refund Request,Refund Request
+I am unable to access my account after entering the correct credentials.,Security Concern,Login Issue,Performance Issue
+My subscription was cancelled without my request and I need clarification.,Security Concern,Subscription Cancellation,Performance Issue
+I am experiencing very slow performance while using the dashboard.,Data Sync Issue,Performance Issue,Performance Issue
+The application crashes whenever I try to upload a file.,Refund Request,Performance Issue,Performance Issue
+I am experiencing very slow performance while using the dashboard.,Payment Problem,Performance Issue,Performance Issue
+The payment was deducted from my bank account but the transaction shows failed.,Subscription Cancellation,Payment Problem,Performance Issue
+Two-factor authentication codes are not being delivered to my phone.,Account Suspension,Security Concern,Performance Issue
+The application crashes whenever I try to upload a file.,Subscription Cancellation,Performance Issue,Performance Issue
+The payment was deducted from my bank account but the transaction shows failed.,Subscription Cancellation,Payment Problem,Performance Issue
+There seems to be a discrepancy in my billing statement for this month.,Security Concern,Payment Problem,Performance Issue
+There seems to be a discrepancy in my billing statement for this month.,Account Suspension,Payment Problem,Performance Issue
+I am unable to access my account after entering the correct credentials.,Payment Problem,Login Issue,Performance Issue
+I am experiencing very slow performance while using the dashboard.,Bug Report,Performance Issue,Performance Issue
+Two-factor authentication codes are not being delivered to my phone.,Subscription Cancellation,Security Concern,Performance Issue
+I am experiencing very slow performance while using the dashboard.,Performance Issue,Performance Issue,Performance Issue
+Two-factor authentication codes are not being delivered to my phone.,Bug Report,Security Concern,Performance Issue
+My subscription was cancelled without my request and I need clarification.,Bug Report,Subscription Cancellation,Performance Issue
+I found a bug in the latest update affecting report generation.,Login Issue,Bug Report,Bug Report
